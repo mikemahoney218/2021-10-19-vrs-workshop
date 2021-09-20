@@ -1,0 +1,7 @@
+*.raw
+*.xml
+*.png
+*.tif
+import_terrain.cs
+terrainr.manifest
+.Rproj.user/
