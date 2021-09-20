@@ -1,6 +1,6 @@
 ---
 title: Producing Interactive 3D Landscape Visualizations in Unity Using the terrainr R Package
-author: Mike Mahoney (With thanks to Colleen Nell and Lindsay Platt)
+author: Mike Mahoney, Colin Beier, Aidan Ackerman (With thanks to Colleen Nell and Lindsay Platt)
 date: 2021-10-19
 output_file: index.html
 ---
