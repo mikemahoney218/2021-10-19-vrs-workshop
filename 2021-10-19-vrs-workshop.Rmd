@@ -5,9 +5,10 @@ date: 2021-10-19
 output_file: index.html
 ---
 
-This is an R Markdown document containing code for the workshop "Accessing the 
-USGS National Map and making 3D maps with terrainr", held virtually on 
-2021-05-28. If you want to follow along with the workshop as we go, 
+This is an R Markdown document containing code for the workshop "Producing 
+Interactive 3D Landscape Visualizations in Unity Using the terrainr R Package", 
+held virtually on 
+2021-10-19. If you want to follow along with the workshop as we go, 
 [click this link to download the R Markdown notebook](https://mikemahoney218.github.io/2021-10-19-vrs/2021-10-19-vrs-workshop.Rmd).
 
 If you're not familiar with R Markdown, this document lets us write both plain 
