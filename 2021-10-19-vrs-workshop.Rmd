@@ -9,7 +9,7 @@ This is an R Markdown document containing code for the workshop "Producing
 Interactive 3D Landscape Visualizations in Unity Using the terrainr R Package", 
 held virtually on 
 2021-10-19. If you want to follow along with the workshop as we go, 
-[click this link to download the R Markdown notebook](https://mikemahoney218.github.io/2021-10-19-vrs/2021-10-19-vrs-workshop.Rmd).
+[click this link to download the R Markdown notebook](https://mikemahoney218.github.io/2021-10-19-vrs-workshop/2021-10-19-vrs-workshop.Rmd).
 
 If you're not familiar with R Markdown, this document lets us write both plain 
 text and code in a single document. Document sections inside three ` marks are
